@@ -1,4 +1,4 @@
-# Vaadin 7 workshop
+# Vaadin 7 workshop test
 
 ![Vaadin logo](src/site/vaadin.jpg)
 
